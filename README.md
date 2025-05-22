@@ -38,8 +38,7 @@ flutter pub get
 flutter run
 
 Screenshot
-Screenshot akan ditambahkan setelah UI selesai dikembangkan
-![Screenshot (64)](https://github.com/user-attachments/assets/57747322-b9b6-440a-8369-aef5450b566f)
+![Screenshot (64)](https://github.com/user-attachments/assets/dbfa1f41-4692-498b-8fc7-b9d4bbbde27d)
 
 Kontribusi
 Silakan fork repository ini dan buat pull request untuk kontribusi Anda.
