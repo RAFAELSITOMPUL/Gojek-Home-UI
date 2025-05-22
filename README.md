@@ -37,8 +37,6 @@ flutter pub get
 
 flutter run
 
-Screenshot
-![Screenshot (64)](https://github.com/user-attachments/assets/dbfa1f41-4692-498b-8fc7-b9d4bbbde27d)
 
 Kontribusi
 Silakan fork repository ini dan buat pull request untuk kontribusi Anda.
@@ -78,3 +76,4 @@ SOFTWARE.
 Project ini dibuat untuk tujuan pembelajaran dan tidak berafiliasi dengan PT Gojek Indonesia atau Gojek Group. Semua merek dagang, logo, dan nama layanan adalah milik dari pemegang hak cipta masing-masing. Penggunaan dalam project ini hanya untuk keperluan edukasi dan demonstrasi teknis.
 
 
+![Screenshot (64)](https://github.com/user-attachments/assets/34378a36-193b-4cc7-b0eb-cfd080889bb8)
